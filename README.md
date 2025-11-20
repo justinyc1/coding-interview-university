@@ -1,23 +1,3 @@
-# Coding Interview University
-
-## Table of Contents
-
-### The Study Plan
-
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [A Note About Video Resources](#a-note-about-video-resources)
-- [Choose a Programming Language](#choose-a-programming-language)
-- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-- [Interview Prep Books](#interview-prep-books)
-- [Don't Make My Mistakes](#dont-make-my-mistakes)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [The Daily Plan](#the-daily-plan)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding Problems](#coding-problems)
-
 ### Topics of Study
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
@@ -339,9 +319,6 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - add(key, value) - if the key already exists, update value
         - exists(key)
         - get(key)
-        - remove(key)
-
-**[⬆ back to top](#table-of-contents)**
 
 ## More Knowledge
 
@@ -382,8 +359,6 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [Swap](https://bits.stephan-brumme.com/swap.html)
     - [ ] Absolute value:
         - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
-
-**[⬆ back to top](#table-of-contents)**
 
 ## Trees
 
